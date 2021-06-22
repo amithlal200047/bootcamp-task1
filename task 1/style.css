@@ -1,0 +1,29 @@
+*{
+   margin: 0; 
+}
+.main{
+    width: 100%;
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5%;
+}
+.image{
+    width: 17%;
+    height: 35%;
+    border-radius: 50%;
+    text-align: center;
+}
+.para{
+    width: 50%;
+    padding-left: 25%;
+    padding-top: 2%;
+    text-align: center;
+}
+p{
+    color: brown;
+}
+h1{
+    color: blue;
+    text-decoration: underline;
+}
